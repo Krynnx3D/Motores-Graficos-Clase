@@ -1,0 +1,4 @@
+repository "Github Clase Trial/Motores-Graficos-Clase@4673347039538@cloud"
+  path "/"
+    br "/main"
+    co "/main"
